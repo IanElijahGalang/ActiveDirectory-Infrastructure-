@@ -11,7 +11,6 @@
 - Windows 10</b> (21H2)
 - Windows Server 2022</b>
 
-Here's a simplified breakdown of the steps to set up Active Directory:
 
 <h2>1. Set up the Domain Controller:</h2>
 Create a Resource Group: Organize your resources in Azure.<br>
