@@ -1,4 +1,4 @@
-# ActiveDirectory-Infrastructure
+# Setting Up Active Directory Infrastructure
 
 
 Here's a simplified breakdown of the steps to set up Active Directory:
